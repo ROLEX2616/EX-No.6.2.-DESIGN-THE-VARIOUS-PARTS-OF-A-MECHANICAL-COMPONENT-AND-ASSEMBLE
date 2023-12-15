@@ -50,8 +50,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ## OUTPUT:
 
 
+![Screenshot 2023-12-15 231300](https://github.com/ROLEX2616/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/149988469/b2a5df65-4ada-4732-821d-de6e135c2a93)
 
-![Screenshot 2023-12-13 211838](https://github.com/ROLEX2616/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/149988469/6e125448-9b69-4497-bdad-46c85a21f33e)
 
 
 ## RESULT:
